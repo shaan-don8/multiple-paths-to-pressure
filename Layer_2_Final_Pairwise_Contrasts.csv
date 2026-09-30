@@ -1,0 +1,13 @@
+group_a,group_b,outcome,difference_a_minus_b,ci_low,ci_high,ci_excludes_zero
+Star + Depth,Heliocentric Star,Median pressure-rate difference,0.03265449170685619,0.011667289284945537,0.0558766379916803,True
+Star + Depth,Heliocentric Star,Median pass-defense-composite difference,0.5360444078908304,-0.2147103086680971,1.137722789236864,False
+Star + Depth,Heliocentric Star,Median EPA-quality-z difference,1.1273099307865748,0.22559517063395718,1.6197047817521701,True
+Star + Depth,Distributed Rotation,Median pressure-rate difference,0.019240141808528788,0.0029873039581777006,0.036968759554684205,True
+Star + Depth,Distributed Rotation,Median pass-defense-composite difference,0.45149874060183387,-0.34236346526483785,1.0802181992086193,False
+Star + Depth,Distributed Rotation,Median EPA-quality-z difference,0.7478618999120098,-0.21743598016504712,0.9833682884758853,False
+Distributed Rotation,Thin / Mixed,Median pressure-rate difference,0.03803912518157504,0.020193656093489165,0.051878354203935606,True
+Distributed Rotation,Thin / Mixed,Median pass-defense-composite difference,0.3292882631572907,0.06600145468529081,0.8432478651731217,True
+Distributed Rotation,Thin / Mixed,Median EPA-quality-z difference,0.8012476671537523,0.5134828117351641,1.2716592153215356,True
+Heliocentric Star,Thin / Mixed,Median pressure-rate difference,0.024624775283247635,0.0014026289984235274,0.04306873902317698,True
+Heliocentric Star,Thin / Mixed,Median pass-defense-composite difference,0.2447425958682942,-0.017016742732693102,0.6118848855481208,False
+Heliocentric Star,Thin / Mixed,Median EPA-quality-z difference,0.42179963627918726,-0.11792944384057813,0.9183536354172508,False

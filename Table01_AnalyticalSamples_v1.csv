@@ -1,0 +1,12 @@
+analysis_layer,season,team_seasons,sample_role
+Layer 1,2022,32,Team pressure requirements
+Layer 1,2023,32,Team pressure requirements
+Layer 1,2024,32,Team pressure requirements
+Layer 1,2025,32,Team pressure requirements
+Layer 2,2022,32,Room talent structure
+Layer 2,2023,32,Room talent structure
+Layer 2,2024,32,Room talent structure
+Layer 2,2025,32,Room talent structure
+Layer 3,2023,28,"Resource allocation, ≥80% cap coverage"
+Layer 3,2024,27,"Resource allocation, ≥80% cap coverage"
+Layer 3,2025,27,"Resource allocation, ≥80% cap coverage"

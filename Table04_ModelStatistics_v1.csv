@@ -1,0 +1,7 @@
+Statistic,Overall pressure rate,Four-man pressure rate
+Team-seasons,82,82
+Team clusters,32,32
+R²,0.312,0.33
+Adjusted R²,0.226,0.246
+Season fixed effects,Yes,Yes
+Team-clustered standard errors,Yes,Yes

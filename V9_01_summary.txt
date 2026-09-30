@@ -1,0 +1,30 @@
+V9.01 — CONDITIONAL RESOURCE TEST
+========================================================================
+Frozen Layer 3 sample: N=82 team-seasons, 2023-2025.
+Season fixed effects; team-clustered standard errors.
+
+PRIMARY CONDITIONAL RESULTS
+overall_pressure:
+  Resource index conditional on demonstrated quality: -0.389 pp [95% CI -1.059, +0.281], p=0.255
+  Prior room quality (+10 percentile points): +2.190 pp [95% CI +1.181, +3.199], p=0.0000
+  Resource x quality interaction: -0.446, [95% CI -1.248, +0.356], p=0.276
+  Resource marginal effect at 25th_percentile: -0.154 pp [95% CI -0.997, +0.689], p=0.721
+  Resource marginal effect at 50th_percentile: -0.417 pp [95% CI -1.080, +0.245], p=0.217
+  Resource marginal effect at 75th_percentile: -0.640 pp [95% CI -1.388, +0.108], p=0.093
+
+four_man_pressure:
+  Resource index conditional on demonstrated quality: -0.513 pp [95% CI -1.124, +0.099], p=0.100
+  Prior room quality (+10 percentile points): +2.041 pp [95% CI +1.031, +3.052], p=0.0001
+  Resource x quality interaction: -0.379, [95% CI -1.094, +0.337], p=0.300
+  Resource marginal effect at 25th_percentile: -0.313 pp [95% CI -1.093, +0.467], p=0.431
+  Resource marginal effect at 50th_percentile: -0.537 pp [95% CI -1.146, +0.072], p=0.084
+  Resource marginal effect at 75th_percentile: -0.725 pp [95% CI -1.395, -0.056], p=0.034
+
+INTERPRETATION BOUNDARY
+The analysis tests incremental association, not a causal return to spending.
+The resource-quality interaction is not statistically distinguishable from zero
+for either outcome, so the data do not establish a literal quality threshold
+above which resources cease to matter. The supported result is narrower:
+once demonstrated room quality and the frozen room-construction controls are
+accounted for, greater total resource commitment does not show a reliable
+positive incremental association with subsequent pressure in this sample.

@@ -1,0 +1,8 @@
+Claim,Substantive proposition,Final evidentiary status,Permitted manuscript use,Evidence summary
+C1,Total resource investment predicts pressure,Unsupported,Do not make as a positive claim,"Investment-only models explained almost none of the variation, and conditional resource-index estimates were unstable."
+C2,Resource concentration predicts pressure,Unsupported,Strong null finding,Continuous concentration blocks were null; top-player cap and draft concentration were jointly null.
+C3,Broader demonstrated room quality predicts pressure,Robustly supported,Primary Layer 3 finding,"Positive and highly precise primary estimates; survives HC3, season removal, team removal, coverage restrictions, concentration form, and alternate resource constructions."
+C4,Resource alignment adds value beyond room quality,Not robustly supported,Exploratory only,Alignment-premium estimates were positive but generally imprecise and season-sensitive.
+C5,Continuity and lower developmental uncertainty help,Secondary and mixed,Supporting result,"The joint block carried signal, but continuity was more stable than unproven resource share."
+C6,Distributed rooms independently outperform,Unsupported after room-quality control,Descriptive only,The decomposed categorical-shape block was jointly insignificant for both pressure outcomes.
+C7,The room-quality result is driven by one subset,Rejected,Robustness statement,The coefficient remained positive and precise after excluding each season and each team individually.

@@ -1,0 +1,40 @@
+V9.03 — FTN × PFF TEAM-SEASON CONCORDANCE AUDIT
+============================================================================
+N = 128 defense-seasons, 2022-2025.
+
+MEASUREMENT BOUNDARY
+FTN measures a binary team pressured-dropback event.
+PFF supplies player-attributed ED/DI pressure production.
+The audit tests concordance, not one-for-one equality.
+
+POOLED WITHIN-SEASON CONCORDANCE
+PFF ED/DI room pressure rate vs FTN overall pressure: Pearson r=0.724; Spearman rho=0.694; both p<.001.
+PFF ED/DI room pressure rate vs FTN four-man pressure: Pearson r=0.718; Spearman rho=0.689; both p<.001.
+
+YEAR-BY-YEAR RAW-RATE PEARSON CORRELATIONS
+2022: overall r=0.766; four-man r=0.680
+2023: overall r=0.644; four-man r=0.655
+2024: overall r=0.751; four-man r=0.756
+2025: overall r=0.734; four-man r=0.784
+
+LARGEST STANDARDIZED DISAGREEMENTS — OVERALL
+2023 DET: PFF-FTN z difference -2.098
+2023 NYG: PFF-FTN z difference -1.752
+2024 DET: PFF-FTN z difference +1.587
+2025 HOU: PFF-FTN z difference +1.476
+2023 NE: PFF-FTN z difference -1.476
+
+LARGEST STANDARDIZED DISAGREEMENTS — FOUR-MAN
+2023 DET: PFF-FTN z difference -1.858
+2023 NYG: PFF-FTN z difference -1.773
+2022 PIT: PFF-FTN z difference -1.739
+2025 NE: PFF-FTN z difference +1.661
+2024 DET: PFF-FTN z difference +1.619
+
+INTERPRETATION
+The providers show strong, persistent team-season concordance despite
+different units, attribution rules, positional scope, and charting definitions.
+This supports using FTN for team pressured-dropback outcomes and PFF for
+player/room creation without claiming that their pressure totals should match
+mechanically. The remaining disagreement is measurement/context variation,
+not evidence of a failed season/team merge.

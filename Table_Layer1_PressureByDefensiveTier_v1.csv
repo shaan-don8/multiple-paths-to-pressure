@@ -1,0 +1,6 @@
+epa_tier_normalized,team_seasons,median_epa_quality,mean_overall_pressure_rate_pp,median_overall_pressure_rate_pp,mean_four_man_pressure_rate_pp,median_four_man_pressure_rate_pp,mean_five_plus_usage_pp
+Poor,28,-0.1175,27.1601,26.9697,24.4662,25.1021,23.9510
+Below Average,23,-0.0650,28.4888,28.6614,26.2279,25.5411,26.8304
+Average,25,-0.0330,29.3264,29.4290,26.4799,25.6180,25.7121
+Good,24,0.0035,30.1911,30.4850,27.5148,27.3870,23.7181
+Elite,28,0.0775,31.4167,32.0801,28.5731,29.3255,24.0234

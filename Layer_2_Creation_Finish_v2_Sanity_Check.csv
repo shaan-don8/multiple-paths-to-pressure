@@ -1,0 +1,5 @@
+season,player,position,team,creation_pct,volume_pct,creation_score,creation_tier,is_creation_star,finish_rate_shrunk,finish_pct,finish_tier,player_creation_finish_profile,pass_rush_opp,pressures,total_pressures,sacks,hits,hurries
+2024,Jalen Carter,DI,PHI,0.8858447488584474,0.9908675799086758,0.9368857147358896,Primary Creator,0,0.3161108925175421,0.7009132420091324,Neutral Finisher,Primary Creator — Neutral Finisher,509.0,53.0,53,5,12,36
+2024,Zach Allen,DI,DEN,0.954337899543379,1.0,0.9769021954849824,Creation Star,1,0.4765664961636828,1.0,High Finisher,Creation Star — High Finisher,592.0,75.0,75,12,28,35
+2022,Micah Parsons,ED,DAL,0.9950248756218906,0.9626865671641792,0.9787221678062688,Creation Star,1,0.3295512772210082,0.2238805970149253,Hurry-Heavy Finisher,Creation Star — Hurry-Heavy Finisher,467.0,90.0,90,14,15,61
+2022,Trey Hendrickson,ED,CIN,0.9552238805970148,0.8109452736318408,0.8801331099500888,High-End Creator,0,0.4126252514990338,0.9029850746268656,High Finisher,High-End Creator — High Finisher,364.0,62.0,62,9,18,35

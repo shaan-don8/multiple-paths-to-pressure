@@ -1,0 +1,2 @@
+exhibit_id,title,sample,predictor,model,standard_errors,coefficient_scale,iqr_effect,higher_is_better,significance_note,causal_language
+T2,Pressure and Pass-Defense Models,"128 NFL defense-seasons, 2022–2025",pressure_percentile,OLS with season fixed effects,Team-clustered,Difference between the 0th and 100th pressure percentiles,Coefficient multiplied by the empirical interquartile range of pressure percentile,All three defensive-quality outcomes,*** p<0.01; ** p<0.05; * p<0.10,"Associational, not causal"

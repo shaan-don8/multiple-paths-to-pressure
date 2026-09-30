@@ -1,0 +1,4 @@
+Outcome,Pressure-percentile coefficient [95% CI],Estimated IQR effect,p-value,N,Team clusters,R²,Adjusted R²,Season fixed effects,Standard errors
+EPA quality per dropback,"+0.117*** [+0.080, +0.155]",+0.059,1.065660796600345e-09,128,32,0.2605211838148067,0.23647309223154844,1,Team-clustered
+Success-rate defense quality,"-0.837** [-1.488, -0.187]",-0.419,0.011632540138980593,128,32,0.18785680922287262,0.16144564854719368,1,Team-clustered
+Explosive-pass defense quality,"-0.271*** [-0.372, -0.170]",-0.136,1.4788524158090536e-07,128,32,0.18346702518220548,0.15691310730195207,1,Team-clustered

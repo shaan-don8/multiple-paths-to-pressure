@@ -1,0 +1,53 @@
+V9.02 — RESIDUALIZED PRIOR-PRESSURE TEST
+========================================================================
+Frozen Layer 3 sample: N=82 team-seasons, 2023-2025.
+Residual construction: leave-one-team-out within each prior season.
+Expected prior pressure is based on demonstrated headliner + support quality.
+Persistence models use season fixed effects and team-clustered standard errors.
+
+OVERALL_PRESSURE
+  room_quality_plus_raw_prior_pressure:
+    Prior room quality (+10 pct pts): +1.456 pp [+0.335, +2.576], p=0.0109
+    Prior-pressure control: +0.297 [+0.074, +0.519], p=0.0091
+    Adjusted R2: 0.249
+  room_quality_plus_residual_prior_pressure:
+    Prior room quality (+10 pct pts): +2.021 pp [+0.992, +3.050], p=0.0001
+    Prior-pressure control: +0.294 [+0.068, +0.521], p=0.0108
+    Adjusted R2: 0.228
+  full_room_plus_raw_prior_pressure:
+    Prior room quality (+10 pct pts): +1.665 pp [+0.551, +2.779], p=0.0034
+    Prior-pressure control: +0.236 [+0.009, +0.462], p=0.0412
+    Adjusted R2: 0.257
+  full_room_plus_residual_prior_pressure:
+    Prior room quality (+10 pct pts): +2.180 pp [+1.166, +3.194], p=0.0000
+    Prior-pressure control: +0.244 [+0.016, +0.472], p=0.0358
+    Adjusted R2: 0.256
+
+FOUR_MAN_PRESSURE
+  room_quality_plus_raw_prior_pressure:
+    Prior room quality (+10 pct pts): +1.501 pp [+0.320, +2.681], p=0.0127
+    Prior-pressure control: +0.185 [-0.002, +0.372], p=0.0519
+    Adjusted R2: 0.186
+  room_quality_plus_residual_prior_pressure:
+    Prior room quality (+10 pct pts): +1.841 pp [+0.799, +2.883], p=0.0005
+    Prior-pressure control: +0.106 [-0.061, +0.273], p=0.2149
+    Adjusted R2: 0.162
+  full_room_plus_raw_prior_pressure:
+    Prior room quality (+10 pct pts): +1.783 pp [+0.577, +2.989], p=0.0038
+    Prior-pressure control: +0.128 [-0.086, +0.342], p=0.2410
+    Adjusted R2: 0.249
+  full_room_plus_residual_prior_pressure:
+    Prior room quality (+10 pct pts): +2.061 pp [+1.053, +3.069], p=0.0001
+    Prior-pressure control: +0.092 [-0.100, +0.284], p=0.3490
+    Adjusted R2: 0.242
+
+INTERPRETATION
+Residualization strengthens the distinction between persistent player-room
+ability and prior team/system pressure. Prior room quality remains strongly
+positive after replacing raw prior pressure with pressure unexplained by the
+prior season's demonstrated headliner/support quality.
+
+For four-man pressure, residual prior pressure is not independently significant
+once room quality is included, while room quality remains strongly positive.
+For overall pressure, the residual prior-pressure term retains some independent
+signal, consistent with broader system/context persistence beyond the ED/DI room.
